@@ -1,1 +1,1 @@
-nvidia/cuda:12.4.0-devel-ubuntu20.04
+nvcr.io/nvidia/tritonserver:24.02-py3
