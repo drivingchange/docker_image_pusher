@@ -1,1 +1,1 @@
-nvcr.io/nvidia/tritonserver:24.02-py3
+nvcr.io/nvidia/tritonserver:24.07-py3
