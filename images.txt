@@ -1,2 +1,1 @@
-mysql:8.0.41
-
+hiyouga/verl:ngc-th2.8.0-cu12.9-vllm0.11.0
