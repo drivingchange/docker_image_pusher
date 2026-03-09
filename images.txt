@@ -1,1 +1,1 @@
-hiyouga/verl:ngc-th2.8.0-cu12.9-vllm0.11.0
+openclaw/openclaw:latest
